@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">圆周率计算</string>
+    <string name="subtitle">数学科学学院</string>
+    <string name="time_elapsed">耗时 : %d 毫秒</string>
+    <string name="format">精度(十六进制)/迭代次数: %d 方式: %s</string>
+</resources>
